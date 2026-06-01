@@ -1,8 +1,8 @@
 # 🛒 E-Commerce Frontend Website
 
-A modern and responsive E-Commerce Frontend Website built using HTML, CSS, and JavaScript. This project focuses on creating an attractive user interface for an online shopping platform, including product displays, navigation menus, promotional sections, and a responsive design.
+A modern and responsive E-Commerce Frontend Website built using HTML and CSS. This project focuses on creating an attractive user interface for an online shopping platform, including product displays, navigation menus, promotional sections, and a responsive design.
 
-> **Note:** This is a frontend-only project. No backend, database, authentication, or payment integration has been implemented.
+> **Note:** This is a frontend-only project. No backend, database, authentication, or payment integration has been implemented. "frontend1.html" is the Homepage for this project.
 
 ---
 
@@ -15,7 +15,6 @@ A modern and responsive E-Commerce Frontend Website built using HTML, CSS, and J
 * Promotional banners
 * Shopping cart interface (UI only)
 * Mobile-friendly layout
-* Interactive JavaScript components
 
 ---
 
@@ -23,22 +22,6 @@ A modern and responsive E-Commerce Frontend Website built using HTML, CSS, and J
 
 * HTML5
 * CSS3
-* JavaScript
-
----
-
-## 📂 Project Structure
-
-```text
-E-Commerce-Frontend/
-│
-├── frontend1.html      # Homepage
-├── css/
-├── js/
-├── images/
-└── README.md
-```
-
 ---
 
 ## ▶️ Getting Started
@@ -68,7 +51,6 @@ This project was developed to practice and demonstrate:
 * Frontend web development
 * Responsive web design
 * User interface design
-* JavaScript interactivity
 * E-commerce website layouts
 
 ---
