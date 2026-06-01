@@ -1,0 +1,51 @@
+body { 
+    margin: 0; 
+  padding-top: 150px; /* increased space for navbar height */
+     box-sizing: border-box; 
+     font-family: Arial, sans-serif; 
+}
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navbar {
+    background: linear-gradient(to bottom, #000000, #333333); /* glossy gradient */
+    padding: 10px 20px;
+    display: flex;              /* flexbox for layout */
+    align-items: center;        /* vertical alignment */
+    justify-content: space-between; /* logo left, links right */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.logo {
+    height: 60px;               /* bigger, clearer logo */
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+}
+
+.nav-right a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    transition: color 0.3s ease;
+    line-height: 60px;          /* aligns text with logo height */
+}
+
+.nav-right a:hover {
+    color: #FFD700;
+    text-decoration: solid;
+}
