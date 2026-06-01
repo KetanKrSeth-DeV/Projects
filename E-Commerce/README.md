@@ -5,7 +5,7 @@ A modern and responsive E-Commerce Frontend Website built using HTML and CSS. Th
 > **Note:** This is a frontend-only project. No backend, database, authentication, or payment integration has been implemented. "frontend1.html" is the Homepage for this project.
 
 ---
-
+<img src="brandlogo.png" alt="Homepage" width="70%">
 ## 🚀 Features
 
 * Responsive and modern UI
